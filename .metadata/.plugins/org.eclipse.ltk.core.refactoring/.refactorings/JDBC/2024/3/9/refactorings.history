@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void closecon()&apos; from &apos;com.tap.Program10.main(...)&apos; to &apos;com.tap.Program10&apos;&#x0A;- Original project: &apos;JDBC&apos;&#x0A;- Method name: &apos;closecon&apos;&#x0A;- Destination type: &apos;com.tap.Program10&apos;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;closecon&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.tap{Program10.java" name="closecon" replace="false" selection="1504 512" stamp="1709301287877" version="1.0" visibility="2"/>
+</session>
